@@ -2,10 +2,10 @@ import React from 'react';
 import Head from 'next/head';
 
 export default function SEO({
-  description = 'startup landing descriptions',
-  author = 'RedQ, Inc',
+  description = 'South Immigration Matters',
+  author = 'John Ervin Jamero',
   meta,
-  title = 'startup landing title',
+  title = 'South Immigration Matters',
 }) {
   const metaData = [
     {

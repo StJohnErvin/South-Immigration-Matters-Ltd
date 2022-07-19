@@ -16,7 +16,7 @@ export default function IndexPage() {
   return (
     <ThemeProvider theme={theme}>
       <Layout>
-        <SEO title="Startup Landing 010" />
+        <SEO title="South Immigration Matters" />
         <Banner />
         <UltimateFeatures />
         <Features />

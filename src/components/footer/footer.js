@@ -21,7 +21,7 @@ export default function Footer() {
           <Box sx={styles.copyright}>
             <Logo />
             <Text as="span">
-              Copyright by {new Date().getFullYear()} RedQ, Inc
+              Copyright by South Immigration Matters 2013
             </Text>
           </Box>
 
